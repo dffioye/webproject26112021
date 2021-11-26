@@ -1,0 +1,141 @@
+
+    body{
+    background-color: rgba(214, 194, 197, 0.644);
+      }
+
+
+
+   img{
+    height: 160px;
+    width: 160px;
+    
+    }
+
+   p{
+    font-family: cursive;
+    font-size: 30;
+    color:cadetblue(204, 206, 198);
+    text-align: center;
+    }
+
+
+   h1{
+    color: rgb(10, 46, 77);
+    font: 12px;
+    font-family:fantasy;
+    text-align:center;
+    }
+
+
+
+
+    #navbar {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        padding: 17px;
+        background-color: rgba(204, 176, 176, 0.918);
+        border-top: 0px;
+        border-bottom: 0px;
+        border-left: 0px;
+        border-right: 0px;
+        border-style:solid;
+        border-color: black;
+         
+    }
+
+   .section {
+        color:yellow(20, 43, 54)
+        
+    }
+
+   h3{
+    color: rgb(10, 46, 77);
+    text-align:center;
+
+ 
+   }
+
+  h4{font: x-small;
+
+  }
+
+
+
+.flex_container{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    height: 500;
+    border: 10px;
+    
+  }
+
+.container1
+.container2
+.container3 
+.container4
+.container5
+.container6 
+
+{font-family: Arial, Helvetica, sans-serif;}
+ * {box-sizing: border-box;}
+ 
+ input[type=text], select, textarea {
+   width: 100%;
+   padding: 10px;
+   border: 1px solid #ccc;
+   border-radius: 4px;
+   box-sizing: border-box;
+   margin-top: 6px;
+   margin-bottom: 16px;
+   resize: vertical;
+ }
+ 
+ input[type=submit] {
+   background-color: #04AA6D;
+   color: white;
+   padding: 12px 20px;
+   border: none;
+   border-radius: 4px;
+   cursor: pointer;
+ }
+ 
+ input[type=submit]:hover {
+   background-color: #040a05;
+ }
+ 
+ .container {
+   border-radius: 5px;
+   background-color: #f2f2f2;
+   padding: 20px;
+ }
+
+
+  
+
+
+
+ .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: right;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
